@@ -1806,6 +1806,8 @@ button,
       background-color: rgba(0, 0, 0, 0.315); }
     .features li:nth-child(10) {
       background-color: rgba(0, 0, 0, 0.35); }
+    .features li:nth-child(11) {
+      background-color: rgba(0, 0, 0, 0.385); }
     .features li:before {
       display: block;
       color: #00ffcc;
